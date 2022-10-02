@@ -79,7 +79,7 @@ header p{
       display: none;
     }
     header{
-        background-image: url(".git/photo mobile.png");
+        background-image: url("photo mobile.png");
         background-repeat: no-repeat;
         height: 90vh;
         width: 100vw;
